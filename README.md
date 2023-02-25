@@ -1,11 +1,16 @@
 # Kamao Wireless Split Keyboard
 
+![Full view](images/kamao2.jpg)
+
 ## Features
+
 - uses Seeeduino XIAO BLE 
 - split wireless via bluetooth
 - 32 keys
 - low-profile using choc v1 
 - reversible pcb
+
+![Profile](images/kamao1.jpg)
 
 ## Why did I build this?
 
